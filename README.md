@@ -10,10 +10,55 @@
  
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Anton&&show_icons=true&theme=radical" alt="Shekhar's Github Stats">
-</p>
-</div>
+
+<div align='center'>
+ 
+<a href="https://github.com/The-Anton/The-Anton" align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Anton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+<a href="https://github.com/The-Anton/The-Anton" align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anton&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/The-Anton/ImageClassifier-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Anton&repo=ImageClassifier-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/The-Anton/RecyclerViewFirestore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Anton&repo=RecyclerViewFirestore&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+
+
+<br>
+<br>
+
+## Medium
+
+<div align='center'>
+ 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=theanton)](https://medium.com/@theanton)
+
+<div>
 <!--
 **The-Anton/The-Anton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
