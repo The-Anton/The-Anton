@@ -1,11 +1,9 @@
 <div align="center">
 <p align="center">
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-  <img src="https://komarev.com/ghpvc/?username=The-Anton" alt="The-Anton" />
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Anton.The-Anton)<br>
  
 </p>
 
@@ -17,9 +15,7 @@
 </a>
 
 
-<a href="https://github.com/The-Anton/The-Anton" align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anton&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 
 
 <div>
@@ -38,3 +34,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
+  
+  &nbsp;
+  
+  
+  <p><a href="https://github.com/The-Anton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/the_anton01" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/the-anton/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://theanton.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
