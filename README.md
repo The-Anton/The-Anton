@@ -25,6 +25,13 @@ These days, I work as a [GitHub Extern](https://github-externships.github.io/ext
 
 ## :octocat: Github Stats 
  
+ 
+![](https://github.com/The-Anton/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/The-Anton/github-stats/blob/master/generated/languages.svg)
+
+ 
+<!--
+ 
 <div align='center'>
  
 <a href="https://github.com/The-Anton/The-Anton" align='center'>
@@ -32,5 +39,5 @@ These days, I work as a [GitHub Extern](https://github-externships.github.io/ext
 </a>
 
 <div>
-
+-->
 
