@@ -18,7 +18,7 @@
 
 My name is Shekhar, and I am a computer science undergrad from Pune, India.
  
-In high school, I learned to build various cool things as a kid, such as Arduino robots, websites, and even Android apps, which shaped my passion for computer science. I'm a pre-final year student pursuing a B.E in Information Technology. I took up many part-time projects developing web apps as a hobby. I am a community leader for [Google Developer Students Clubs](https://developers.google.com/community/dsc), where I collaborate with others to create solutions for the local community and spread open-source and cutting-edge technology knowledge.
+In high school, I learned to build various cool things as a kid, such as Arduino robots, websites, and even Android apps, which shaped my passion for computer science. I'm a pre-final year student pursuing a B.E in Information Technology.I'm an Android and Backend enthusiast who has gained experience through project work, hackathons, and open-source. I am a [Google Developer Students Clubs community leader](https://developers.google.com/community/dsc), where I work with others to create solutions for the local community and spread knowledge about open-source and cutting-edge technology.
  
 These days, I work as a [GitHub Extern](https://github-externships.github.io/externship/index.html), contributing to open-source projects and developing scalable end products for the organization. I manage the [IncubateIND Fellows Project](https://github.com/incubateind/fellows), which is a web-based solution for community management and event hosting platforms. I'm primarily responsible for creating the backend infrastructure and managing the codebase.
 
