@@ -24,7 +24,7 @@ These days, I work as a [GitHub Extern](https://github-externships.github.io/ext
 
 ## ❤️ Open-Source Contribution
 
-[![GitHub Externship](https://user-images.githubusercontent.com/51144829/135499248-dfa3c648-afe4-4e5c-8935-476432d186f0.png)](https://user-images.githubusercontent.com/51144829/135498986-fa13dc57-a73a-4ef3-b3a8-32071a803876.png)
+[![GitHub Externship](https://user-images.githubusercontent.com/51144829/135499248-dfa3c648-afe4-4e5c-8935-476432d186f0.png)](https://gist.github.com/The-Anton/b262f47b620a86956889a939dc41ad15)
 
 ## :octocat: Github Stats 
  
