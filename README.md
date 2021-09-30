@@ -22,6 +22,10 @@ In high school, I learned to build various cool things as a kid, such as Arduino
  
 These days, I work as a [GitHub Extern](https://github-externships.github.io/externship/index.html), contributing to open-source projects and developing scalable end products for the organization. I manage the [IncubateIND Fellows Project](https://github.com/incubateind/fellows), which is a web-based solution for community management and event hosting platforms. I'm primarily responsible for creating the backend infrastructure and managing the codebase.
 
+## ❤️ Open-Source Contribution
+
+[![GitHub Externship](https://user-images.githubusercontent.com/51144829/135498986-fa13dc57-a73a-4ef3-b3a8-32071a803876.png)](https://user-images.githubusercontent.com/51144829/135499248-dfa3c648-afe4-4e5c-8935-476432d186f0.png)
+
 
 ## :octocat: Github Stats 
  
