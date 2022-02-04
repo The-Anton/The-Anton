@@ -1,7 +1,6 @@
 <div >
 
  
-![Github](https://user-images.githubusercontent.com/51144829/133453643-c01a04d0-9402-47e1-8933-74a85e1b2d1d.jpg)
 
 <p align="center">
  <a href="https://github.com/The-Anton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
