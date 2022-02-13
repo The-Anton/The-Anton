@@ -11,23 +11,20 @@
 </p>
  
 </p>
-<div>
- 
- ### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/shekhar-kumar/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
- 
+<div> 
  
  # 👋Hey,
 
 My name is Shekhar, and I am a computer science undergrad from Pune, India.
  
-In high school, I learned to build various cool things as a kid, such as Arduino robots, websites, and even Android apps, which shaped my passion for computer science. I'm a pre-final year student pursuing a B.E in Information Technology. I'm an Android and Backend enthusiast who has gained experience through project work, hackathons, and open-source. Community leader at [Google Developer Students Clubs](https://developers.google.com/community/dsc), where I work with others to create solutions for the local community and spread knowledge about open-source and cutting-edge technology.
- 
-These days, I work as a [GitHub Extern](https://github-externships.github.io/externship/index.html), contributing to open-source projects and developing scalable end products for the organization. I manage the [IncubateIND Fellows Project](https://github.com/incubateind/fellows), which is a web-based solution for community management and event hosting platforms. I'm primarily responsible for creating the backend infrastructure and managing the codebase.
- 
+ From my high school days, I learned to build various cool things as a kid, such as Arduino robots, dynamic webpages, and even Android apps, which shaped my passion for computer science. I'm a pre-final year student pursuing a B.E in Information Technology. I'm an Backend enthusiast who has gained experience through project work, hackathons, and open-source. I also love Android Dev. Community leader at [Google Developer Students Clubs](https://developers.google.com/community/dsc), where I work with others to create solutions for the local community and spread knowledge about open-source and cutting-edge technology.
+
+
+ ### 📫 Like to have a conversation?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/shekhar-kumar/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
