@@ -41,12 +41,15 @@ const shekhar = {
         mobileApp: {
             native: ["Android Development"]
         },
+        frontEnd: {
+            js: ["React","ejs"]
+        },
         devOps: ["AWS", "Azure", "Docker🐳", "Nginx", "GitHub Actions"],
         databases: ["mongo", "MySql", "sqlite", "redis", "postgresql"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Model–view–viewmodel", "Progressive web applications"],
-    currentFocus: "Distributed Systems"
+    currentFocus: ["Distributed Systems", "go-lang"]
 };
 ```
 
