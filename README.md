@@ -46,7 +46,7 @@ const shekhar = {
         },
         devOps: ["AWS", "Azure", "Docker🐳", "Nginx", "GitHub Actions"],
         databases: ["mongo", "MySql", "sqlite", "redis", "postgresql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "meteor.js", "REST", "GraphQL"]
     },
     architecture: ["Model–view–viewmodel", "Progressive web applications"],
     currentFocus: ["Distributed Systems", "go-lang"]
