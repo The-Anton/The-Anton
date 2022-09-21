@@ -15,7 +15,7 @@
  
  # 👋Hey,
 
-My name is Shekhar, and I am a computer science undergrad from Pune, India.
+A computer science undergrad from Pune, India.
  
  From my high school days, I learned to build various cool things as a kid, such as Arduino robots, dynamic webpages, and even Android apps, which shaped my passion for computer science. I'm a pre-final year student pursuing a B.E in Information Technology. I'm an Backend enthusiast who has gained experience through project work, hackathons, and open-source. I also love Android Dev. Community leader at [Google Developer Students Clubs](https://developers.google.com/community/dsc), where I work with others to create solutions for the local community and spread knowledge about open-source and cutting-edge technology.
 
