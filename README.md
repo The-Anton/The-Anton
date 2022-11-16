@@ -56,7 +56,7 @@ const shekhar = {
 
 ## ❤️ Open-Source Contribution
 
-![GitHub Externship](https://user-images.githubusercontent.com/51144829/153766350-67edf1d2-0f09-48ad-b225-adeefb695888.png)
+[![GitHub Externship](https://user-images.githubusercontent.com/51144829/153766350-67edf1d2-0f09-48ad-b225-adeefb695888.png)](https://gist.github.com/The-Anton/b262f47b620a86956889a939dc41ad15)
 
 ## :octocat: Github Stats 
  
