@@ -14,8 +14,6 @@
 <div> 
  
  # 👋Hey,
-
-A computer science undergrad from Pune, India.
  
  From my high school days, I learned to build various cool things as a kid, such as Arduino robots, dynamic webpages, and even Android apps, which shaped my passion for computer science. I'm an Backend enthusiast who has gained experience through project work, hackathons, and open-source.
 
