@@ -29,7 +29,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const shekhar = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C++", "Java", "Python", "Kotlin"],
+    code: ["Javascript", "Go", "C++", "Python", "Kotlin"],
     askMeAbout: ["web dev","back-end", "system design", "app dev", "robotics"],
     technologies: {
         backEnd: {
