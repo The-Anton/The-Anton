@@ -17,12 +17,6 @@
  
  From my high school days, I learned to build various cool things as a kid, such as Arduino robots, dynamic webpages, and even Android apps, which shaped my passion for computer science. I'm an Backend enthusiast who has gained experience through project work, hackathons, and open-source.
 
-
- ### 📫 Like to have a conversation?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/shekhar-kumar/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
